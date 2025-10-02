@@ -1,0 +1,10 @@
+{
+  "url": "https://www.55ikon777.com/",
+  "title": "Apkku Webview",
+  "enablePullToRefresh": true,
+  "enableFileUpload": true,
+  "enableNotifications": true,
+  "userAgent": "ApkkuWebview/1.0 (Android)",
+  "backgroundColor": "#FFFFFF",
+  "splashDuration": 2000
+}

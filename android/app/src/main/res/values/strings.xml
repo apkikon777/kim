@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IKON777</string>
+    <string name="loading">Loading...</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="error_loading">Gagal memuat halaman</string>
+    <string name="pull_to_refresh">Tarik untuk menyegarkan</string>
+</resources>
