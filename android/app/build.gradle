@@ -19,10 +19,13 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('my-release-key.keystore')
-            storePassword 'apkku123'
-            keyAlias 'apkku-key'
-            keyPassword 'apkku123'
+            storeFile file('myapp-release.jks')
+            storePassword 'myapp123456'
+            keyAlias 'myapp_release'
+            keyPassword 'myapp123456'
+            // Enable V1 and V2 signature schemes
+            v1SigningEnabled true
+            v2SigningEnabled true
         }
     }
 
